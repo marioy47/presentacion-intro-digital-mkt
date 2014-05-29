@@ -11,7 +11,9 @@ html
 
   body
 
-    header <a href="http://dazzet.co"><img src="img/logo_dazzet.png" /></a>
+    header
+      a(href="http://dazzet.co")
+        img(src="img/logo_dazzet.png")
 
     article
 
@@ -20,9 +22,13 @@ html
 
       section
         h2 Patrocinadores
-        h3 Dazzet
-        strong Juan Esteban Yepes @YepesEsteban
-        strong Mario A Yepes C @marioy47
+        h3 
+          a(href="http://dazzet.co") Dazzet
+        strong Juan Esteban Yepes 
+          a(href="http://twitter.com/yepesesteban") @YepesEsteban
+        hr
+        strong Mario Andrés Yepes C 
+          a(href="http://twitter.com/marioy47") @marioy47
 
       section 
         h2 Temas
