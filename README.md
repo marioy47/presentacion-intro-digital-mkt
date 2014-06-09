@@ -1,9 +1,7 @@
 # Lanzamiento Meetup Social Media
 > Presentación para el primer Meetup de Social Media & Digital Marketing de Medellín. Se muestra un listado de los temas a tratar así como una pequeña explicación sobre que consiste cada uno
 
-## View slides locally
-
-Para compilar y visualizar las diapositivas:
+## Para compilar y visualizar las diapositivas:
 
 1. Instalar [Node.js](http://nodejs.org)
 2. Instalar [Bower](http://bower.io)
